@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272475879102",
+    "project_id": "instant-messenger-ab5e3",
+    "storage_bucket": "instant-messenger-ab5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272475879102:android:71e203f413b1e99abc50ef",
+        "android_client_info": {
+          "package_name": "com.puoklam.im"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272475879102-drsndo8cb2dc0lha0po4f59r27g25frb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Dl22ytbGGGh2gmtFyo3-jjr6WjBUPTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272475879102-drsndo8cb2dc0lha0po4f59r27g25frb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
